@@ -9,6 +9,11 @@
             "index": 1,
             "imageUrl": "https://raw.githubusercontent.com/AlexanderIsaevOfficial/slava-ads-controller/main/loona/02.jpg",
             "siteUrl": "https://apps.apple.com/developer/id1472415315"
+        },
+        {
+            "index": 2,
+            "imageUrl": "https://raw.githubusercontent.com/AlexanderIsaevOfficial/slava-ads-controller/main/loona/03.jpg",
+            "siteUrl": "https://apps.apple.com/developer/id1472415315"
         }
     ]
 }
